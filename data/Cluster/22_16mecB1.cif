@@ -1,0 +1,109 @@
+data_22-16-mecB1
+_audit_creation_date              2023-04-12
+_audit_creation_method            'Materials Studio'
+_symmetry_space_group_name_H-M    'P1'
+_symmetry_Int_Tables_number       1
+_symmetry_cell_setting            triclinic
+loop_
+_symmetry_equiv_pos_as_xyz
+  x,y,z
+_cell_length_a                    20.0000
+_cell_length_b                    20.0000
+_cell_length_c                    20.0000
+_cell_angle_alpha                 90.0000
+_cell_angle_beta                  90.0000
+_cell_angle_gamma                 90.0000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+Au1    Au    1.51755   0.55938   0.58356   0.00000  Uiso   1.00
+Au2    Au    1.39097   0.41301   0.47179   0.00000  Uiso   1.00
+Au3    Au    1.40919   0.48102   0.61098   0.00000  Uiso   1.00
+Au4    Au    1.50871   0.38736   0.54622   0.00000  Uiso   1.00
+Au5    Au    1.50296   0.49619   0.46140   0.00000  Uiso   1.00
+Au6    Au    1.47299   0.43162   0.34192   0.00000  Uiso   1.00
+Au7    Au    1.39442   0.57330   0.50870   0.00000  Uiso   1.00
+Au8    Au    1.59508   0.40759   0.40838   0.00000  Uiso   1.00
+Au9    Au    1.48694   0.31560   0.42557   0.00000  Uiso   1.00
+Au10   Au    1.25645   0.50761   0.52569   0.00000  Uiso   1.00
+Au11   Au    1.53608   0.45770   0.70477   0.00000  Uiso   1.00
+Au12   Au    1.48169   0.59051   0.35814   0.00000  Uiso   1.00
+Au13   Au    1.38546   0.30725   0.57634   0.00000  Uiso   1.00
+Au14   Au    1.60741   0.58232   0.43283   0.00000  Uiso   1.00
+Au15   Au    1.32495   0.64269   0.62030   0.00000  Uiso   1.00
+Au16   Au    1.46976   0.62750   0.70404   0.00000  Uiso   1.00
+Au17   Au    1.57590   0.35223   0.26927   0.00000  Uiso   1.00
+S18    S     1.62177   0.61458   0.54958   0.00000  Uiso   1.00
+S19    S     1.27562   0.42941   0.44008   0.00000  Uiso   1.00
+S20    S     1.33854   0.38697   0.65004   0.00000  Uiso   1.00
+S21    S     1.22495   0.58201   0.61110   0.00000  Uiso   1.00
+S22    S     1.43559   0.22942   0.50323   0.00000  Uiso   1.00
+S23    S     1.41976   0.71094   0.63742   0.00000  Uiso   1.00
+S24    S     1.38292   0.64086   0.40851   0.00000  Uiso   1.00
+S25    S     1.51648   0.54871   0.77732   0.00000  Uiso   1.00
+S26    S     1.63069   0.44569   0.22179   0.00000  Uiso   1.00
+S27    S     1.52312   0.25868   0.31823   0.00000  Uiso   1.00
+Au28   Au    1.59171   0.52397   0.30984   0.00000  Uiso   1.00
+Au29   Au    1.73609   0.49802   0.37192   0.00000  Uiso   1.00
+Au30   Au    1.42897   0.54307   0.21954   0.00000  Uiso   1.00
+Au31   Au    1.67954   0.66917   0.33981   0.00000  Uiso   1.00
+Au32   Au    1.52880   0.68772   0.25683   0.00000  Uiso   1.00
+S33    S     1.71356   0.38567   0.39998   0.00000  Uiso   1.00
+S34    S     1.77664   0.60327   0.33775   0.00000  Uiso   1.00
+S35    S     1.59001   0.74589   0.33896   0.00000  Uiso   1.00
+S36    S     1.56013   0.35563   0.65095   0.00000  Uiso   1.00
+S37    S     1.46822   0.64111   0.16764   0.00000  Uiso   1.00
+S38    S     1.38241   0.44454   0.26300   0.00000  Uiso   1.00
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_ccdc_geom_bond_type
+Au1    S18     2.455   .     S
+Au1    Au3     2.730   .     S
+Au1    Au5     2.766   .     S
+Au2    S19     2.415   .     S
+Au3    S20     2.479   .     S
+Au3    Au7     2.771   .     S
+Au4    S36     2.418   .     S
+Au4    Au5     2.762   .     S
+Au5    Au8     2.767   .     S
+Au5    Au14    2.767   .     S
+Au5    Au6     2.782   .     S
+Au6    S38     2.417   .     S
+Au7    S24     2.428   .     S
+Au8    S33     2.416   .     S
+Au9    S22     2.537   .     S
+Au9    S27     2.535   .     S
+Au10   S19     2.350   .     S
+Au10   S21     2.351   .     S
+Au11   S25     2.361   .     S
+Au11   S36     2.357   .     S
+Au12   Au28    2.747   .     S
+Au12   S24     2.435   .     S
+Au13   S20     2.365   .     S
+Au13   S22     2.359   .     S
+Au14   Au28    2.741   .     S
+Au14   S18     2.439   .     S
+Au15   S21     2.347   .     S
+Au15   S23     2.361   .     S
+Au16   S25     2.346   .     S
+Au16   S23     2.358   .     S
+Au17   S27     2.361   .     S
+Au17   S26     2.366   .     S
+S26    Au28    2.482   .     S
+Au29   S33     2.359   .     S
+Au29   S34     2.357   .     S
+Au30   S37     2.353   .     S
+Au30   S38     2.346   .     S
+Au31   S35     2.358   .     S
+Au31   S34     2.347   .     S
+Au32   S37     2.349   .     S
+Au32   S35     2.356   .     S
